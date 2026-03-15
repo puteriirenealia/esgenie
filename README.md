@@ -24,6 +24,7 @@ graph TD
     G --> H(ReportAgent: E/S/G Scoring & Narrative)
     H --> I[Final Board Report & Visual Dashboard]
     I --> J{LLM Judge: Quality Assurance}
+```
 
 🚀 Live Demo: [https://esgenie-218585510823.asia-southeast1.run.app/]
 
