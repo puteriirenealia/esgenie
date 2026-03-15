@@ -29,6 +29,7 @@ graph TD
 🚀 Live Demo: [https://esgenie-218585510823.asia-southeast1.run.app/]
 
 🚨 The ESG Mandate: Why Malaysian SMEs Must Act Now
+
 The Catalyst: Bursa Malaysia has mandated strict ESG and climate reporting for Public Listed Companies (PLCs).
 
 The Trickle-Down Effect: PLCs are now required to report Scope 3 emissions and audit their entire supply chain. If an SME cannot provide verified ESG data, listed companies will drop them as vendors to remain compliant.
